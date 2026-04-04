@@ -1,0 +1,121 @@
+post_id,title,category,score,num_comments,author,collected_at
+47582220,Axios compromised on NPM – Malicious versions drop remote access trojan,Others,1928,800,mtud,2026-04-04 07:50:17
+47613981,LinkedIn is searching your browser extensions,Others,1861,755,digitalWestie,2026-04-04 07:50:16
+47616361,Google releases Gemma 4 open models,Others,1733,459,jeffmcjunkin,2026-04-04 07:50:11
+47616242,Decisions that eroded trust in Azure – by a former Azure Core engineer,Others,1192,598,axelriet,2026-04-04 07:50:12
+47603657,Artemis II Launch Day Updates,Startups,1092,949,apitman,2026-04-04 07:50:14
+47609564,Steam on Linux Use Skyrocketed Above 5% in March,Others,770,361,hkmaxpro,2026-04-04 07:50:16
+47625952,Show HN: I built a frontpage for personal blogs,Others,704,179,ramkarthikk,2026-04-04 07:50:11
+47631118,Artemis II crew take “spectacular” image of Earth,Others,700,252,andsoitis,2026-04-04 07:50:08
+47624645,Show HN: Apfel – The free AI already on your Mac,AI,668,140,franze,2026-04-04 07:50:11
+47633396,Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw,Programming,586,495,firloop,2026-04-04 07:50:08
+47615002,Qwen3.6-Plus: Towards real world agents,Others,576,201,pretext,2026-04-04 07:50:15
+47618189,Tailscale's new macOS home,AI,554,300,tosh,2026-04-04 07:50:15
+47612724,Lemonade by AMD: a fast and open source local LLM server using GPU and NPU,Others,550,112,AbuAssar,2026-04-04 07:50:14
+47618084,Cursor 3,Others,526,398,adamfeldman,2026-04-04 07:50:15
+47615490,Artemis computer running two instances of MS outlook; they can't figure out why,Others,480,354,mooreds,2026-04-04 07:50:14
+47628326,F-15E jet shot down over Iran,Others,460,1037,tjwds,2026-04-04 07:50:10
+47629433,iNaturalist,Others,399,106,bookofjoe,2026-04-04 07:50:09
+47615449,Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps,Others,367,150,speckx,2026-04-04 07:50:17
+47633947,The FAA’s flight restriction for drones is an attempt to criminalize filming ICE,Others,359,107,detaro,2026-04-04 07:50:10
+47617415,Good ideas do not need lots of lies in order to gain public acceptance (2008),AI,352,190,sedev,2026-04-04 07:50:15
+47628608,OpenClaw privilege escalation vulnerability,Others,344,182,kykeonaut,2026-04-04 07:50:09
+47624736,NHS staff refusing to use FDP over Palantir ethical concerns,Others,325,149,chrisjj,2026-04-04 07:50:13
+47609356,Artemis II's toilet is a moon mission milestone,Others,322,167,1659447091,2026-04-04 07:50:15
+47611921,Significant raise of reports,AI,309,155,stratos123,2026-04-04 07:50:17
+47624731,April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini,Others,302,118,greenstevester,2026-04-04 07:50:13
+47615756,Renewables reached nearly 50% of global electricity capacity last year,Others,291,145,Growtika,2026-04-04 07:50:18
+47618223,We replaced RAG with a virtual filesystem for our AI documentation assistant,AI,282,114,denssumesh,2026-04-04 07:50:09
+47627061,Solar and batteries can power the world,Others,269,417,edent,2026-04-04 07:50:17
+47634690,Delve removed from Y Combinator,Others,248,150,carabiner,2026-04-04 07:50:09
+47624811,SSH certificates: the better SSH experience,Others,236,103,jandeboevrie,2026-04-04 07:50:11
+47617376,OpenAI Acquires TBPN,AI,235,190,surprisetalk,2026-04-04 07:50:14
+47621792,Post Mortem: axios NPM supply chain compromise,AI,235,105,Kyro38,2026-04-04 07:50:09
+47625244,Critics say EU risks ceding control of its tech laws under U.S. pressure,Tech,223,132,nickslaughter02,2026-04-04 07:50:14
+47614100,'Backrooms' and the Rise of the Institutional Gothic,Others,216,103,anarbadalov,2026-04-04 07:50:15
+47611481,Bringing Clojure programming to Enterprise (2021),Others,200,122,smartmic,2026-04-04 07:50:15
+47598413,C89cc.sh – standalone C89/ELF64 compiler in pure portable shell,Others,194,60,gaigalas,2026-04-04 07:50:16
+47632503,"Iran strikes leave Amazon availability zones ""hard down"" in Bahrain and Dubai",AI,186,82,upofadown,2026-04-04 07:50:11
+47582987,Gone (Almost) Phishin',Others,183,87,luu,2026-04-04 07:50:16
+47618176,George Goble has died,Others,169,39,finaard,2026-04-04 07:50:14
+47630109,Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M,Others,162,63,MaximilianEmel,2026-04-04 07:50:12
+47586885,What changes when you turn a Linux box into a router,Others,156,41,0o_MrPatrick_o0,2026-04-04 07:50:09
+47629116,Go on Embedded Systems and WebAssembly,Others,150,18,uticus,2026-04-04 07:50:09
+47596739,Mercor says it was hit by cyberattack tied to compromise LiteLLM,Others,148,45,jackson-mcd,2026-04-04 07:50:16
+47635056,Gold overtakes U.S. Treasuries as the largest foreign reserve asset,Others,147,85,lxm,2026-04-04 07:50:09
+47621438,Show HN: Made a little Artemis II tracker,Others,145,54,codingmoh,2026-04-04 07:50:15
+47627527,Build your own Dial-up ISP with a Raspberry Pi,Others,141,29,arjunbajaj,2026-04-04 07:50:10
+47624317,New Rowhammer attacks give complete control of machines running Nvidia GPUs,Others,128,10,01-_-,2026-04-04 07:50:17
+47630893,Age verification on Systemd and Flatpak,Others,111,94,londonanon,2026-04-04 07:50:11
+47629903,Why are we still using Markdown?,Others,104,174,veqq,2026-04-04 07:50:10
+47633157,Fake Fans,Others,101,20,performative,2026-04-04 07:50:10
+47630576,"How to make a sliding, self-locking, and predator-proof chicken coop door (2020)",Others,101,43,uticus,2026-04-04 07:50:10
+47585469,Herbie: Automatically improve imprecise floating point formulas,Others,96,12,summarity,2026-04-04 07:50:09
+47632750,Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C,Others,96,38,hpscript,2026-04-04 07:50:11
+47624804,Category Theory Illustrated – Types,Others,95,16,boris_m,2026-04-04 07:50:12
+47579818,What we learned building 100 API integrations with OpenCode,Programming,94,21,rguldener,2026-04-04 07:50:12
+47633131,"Run Linux containers on Android, no root required",AI,93,31,politelemon,2026-04-04 07:50:09
+47626462,Big-Endian Testing with QEMU,Others,88,96,jandeboevrie,2026-04-04 07:50:10
+47622616,The Technocracy Movement of the 1930s,Tech,87,77,lazydogbrownfox,2026-04-04 07:50:09
+47593861,Maze Algorithms (1997),Others,86,33,marukodo,2026-04-04 07:50:14
+47621825,I Built an SMS Gateway with a $20 Android Phone – Jonno.nz,Others,82,38,jonno-nz,2026-04-04 07:50:15
+47633116,The house is a work of art: Frank Lloyd Wright,Others,81,32,midnightfish,2026-04-04 07:50:09
+47630795,"Hello, World",Others,81,15,reconnecting,2026-04-04 07:50:13
+47582792,Linux Running in a PDF (2025),Others,80,21,matthewsinclair,2026-04-04 07:50:12
+47629505,Solana Drift Protocol drained of $285M via fake token and governance hijack,AI,74,32,anonhaven,2026-04-04 07:50:17
+47632504,"""Cognitive surrender"" leads AI users to abandon logical thinking, research finds",AI,73,29,Bender,2026-04-04 07:50:13
+47621448,A Few Good Magazines From the 70s and 80s,Others,71,29,OhMeadhbh,2026-04-04 07:50:16
+47597159,Improving my focus by giving up my big monitor,Others,70,87,Fudgel,2026-04-04 07:50:09
+47630592,Async Python Is Secretly Deterministic,Programming,70,29,KraftyOne,2026-04-04 07:50:12
+47619879,U.S. is burning through Tomahawk cruise missile stockpile,Others,70,54,uticus,2026-04-04 07:50:15
+47635033,Show HN: Travel Hacking Toolkit – Points search and trip planning with AI,AI,61,28,borski,2026-04-04 07:50:09
+47620933,Memo: A language that remembers only the last 12 lines of code,Programming,57,36,notem,2026-04-04 07:50:16
+47633676,"Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)",Startups,54,48,angst,2026-04-04 07:50:14
+47592614,Prefer do notation over Applicative operators when assembling records (2024),Others,53,12,wazHFsRy,2026-04-04 07:50:17
+47629013,Mercurial Dyson – a plan for the disassembly of planet Mercury,Others,51,35,indy,2026-04-04 07:50:17
+47633150,The Subprime AI Crisis Is Here,AI,48,19,dmitrygr,2026-04-04 07:50:18
+47629608,Tech Companies Are Trying to Neuter Colorado's Landmark Right-to-Repair Law,AI,44,9,liz_ifixit,2026-04-04 07:50:17
+47630582,Three main saturated fats raise your cholesterol,AI,44,11,brandonb,2026-04-04 07:50:16
+47625311,Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux,AI,42,20,tosh,2026-04-04 07:50:14
+47627419,The Axios supply chain attack used individually targeted social engineering,AI,40,9,cmitsakis,2026-04-04 07:50:13
+47626598,Show HN: ctx – an Agentic Development Environment (ADE),Others,40,51,luca-ctx,2026-04-04 07:50:12
+47630136,Update on the eBay Scam,Others,39,36,speckx,2026-04-04 07:50:12
+47633640,How to Write Unmaintainable Code (1999),AI,39,10,downbad_,2026-04-04 07:50:11
+47631648,Automatic Textbook Formalization,Others,36,13,tzury,2026-04-04 07:50:13
+47634405,Delve removed from YC portfolio website,Others,33,1,cyrusradfar,2026-04-04 07:50:17
+47591707,Bourbon waste could provide next-gen supercapacitor components,Others,30,14,prabal97,2026-04-04 07:50:11
+47633855,Claude Code Found a Linux Vulnerability Hidden for 23 Years,Programming,30,13,eichin,2026-04-04 07:50:11
+47632312,The Hardest Document Extraction Problem in Insurance,Others,29,5,sgondala_ycapp,2026-04-04 07:50:13
+47631030,Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment,Others,27,19,sagirodin,2026-04-04 07:50:13
+47624691,HarfBuzz Slug Support with WebGL,Others,27,5,mcraiha,2026-04-04 07:50:17
+47633715,Kids groups say they didn't know OpenAI was behind their child safety coalition,AI,27,7,heavyset_go,2026-04-04 07:50:14
+47636435,Emotion concepts and their function in a large language model,Others,25,7,dnw,2026-04-04 07:50:08
+47587339,DCJ11Hack+ – DEC PDP/11 based homebrew computer,Others,25,0,zdw,2026-04-04 07:50:12
+47580271,South Polar Times,Others,24,1,Thevet,2026-04-04 07:50:10
+47624440,A CSS Engine in OCaml,Others,24,0,p4bl0,2026-04-04 07:50:17
+47634240,OpenAI Cap Table leak reveals Microsoft's 18x return,AI,22,2,diehunde,2026-04-04 07:50:14
+47632016,The danger of military AI isn't killer robots; it's worse human judgement,AI,22,5,speckx,2026-04-04 07:50:18
+47633698,Flattening the Duck Curve: batteries reach 44% of evening demand in California,Others,20,3,bronson,2026-04-04 07:50:16
+47633568,Anthropic to limit Using third-party harnesses with Claude subscriptions,Others,16,3,guiyuwei,2026-04-04 07:50:16
+47583391,Windows++: C++ Application Framework for Windows by Paul DiLascia,Others,15,4,teleforce,2026-04-04 07:50:11
+47635522,"Japan to require language proficiency proof for engineer, specialist visa",Others,14,4,totetsu,2026-04-04 07:50:13
+47635526,Did Anyone Predict the Industrial Revolution?,Others,13,2,paulpauper,2026-04-04 07:50:14
+47632692,Show HN: Mtproto.zig – High-performance Telegram proxy with DPI evasion,Others,12,9,slp3r,2026-04-04 07:50:13
+47636203,"Scientists are working on ""everything vaccines""",Others,12,4,andsoitis,2026-04-04 07:50:11
+47635929,Naming rights to street auctioned in San Francisco,Others,11,6,18nleung,2026-04-04 07:50:11
+47631011,PIGuard: Prompt Injection Guardrail via Mitigating Overdefense for Free,AI,11,5,mettamage,2026-04-04 07:50:15
+47634544,"The story that rocked the world: Ten years of the Panama Papers, part 1 – ICIJ",Others,11,0,abdelhousni,2026-04-04 07:50:16
+47633464,Third-party Claude harnesses will now draw from extra usage,Others,10,3,iBelieve,2026-04-04 07:50:18
+47635558,Netflix just dropped their first public model on Hugging Face: VOID,Others,10,1,rajtilakjee,2026-04-04 07:50:15
+47632763,I Gave an Claude Its Own Radio Station – It Won't Stop Broadcasting (It's Fine),Others,10,2,eltokh7,2026-04-04 07:50:17
+47635472,No One at Waffle House Remembers FEMA Official Who Says He Teleported In,Others,8,2,jonas21,2026-04-04 07:50:18
+47602598,An experimental guide to Answer Engine Optimization,Others,8,3,rosslh,2026-04-04 07:50:12
+47636233,"Uber engineer alleges hostile 'boys club' culture, firing after cancer leave",Others,7,0,nickvec,2026-04-04 07:50:13
+47631190,Chip-scale optical wireless system hits 362 Gbps at half the energy of Wi-Fi,Others,6,0,prabal97,2026-04-04 07:50:16
+47633734,ENiGMA½ BBS Software,Tech,6,1,NuSkooler,2026-04-04 07:50:14
+47636101,AdGuard ad trackers What ad-based surveillance does to your traffic,Others,5,0,XzetaU8,2026-04-04 07:50:13
+47609492,50 years measuring the cleanest air,AI,5,0,defrost,2026-04-04 07:50:10
+47632901,Sandbox Strategy Game for AI,AI,5,0,Stefan_Golas,2026-04-04 07:50:16
+47633514,"Writing an LLM from scratch, part 32h – Interventions: full fat float32",Others,5,0,gpjt,2026-04-04 07:50:15
+47582852,The Philosopher and the Tsar,Others,4,0,Caiero,2026-04-04 07:50:13
+47632460,Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers,Tech,1,0,banks_h,2026-04-04 07:50:10
